@@ -38,7 +38,7 @@
 
 **🟦 Cyan Agroanalytics (2024 - Atual)**  
 *Analista de Integração*  
-Desenvolvimento de soluções em integração de dados para o setor agro, automação de processos e dashboards com Power BI.
+Desenvolvimento de soluções em integração de dados para o setor agro e automação de processos. <!-- e dashboards com Power BI. -->
 
 **🏭 Usina São José do Pinheiro (2016 - 2024)**  
 *Técnico em Análise de Sistemas*  
